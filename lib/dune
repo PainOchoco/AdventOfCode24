@@ -1,0 +1,3 @@
+(library
+ (name AdventOfCode2024)
+ (libraries base str))
